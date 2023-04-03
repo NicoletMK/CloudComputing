@@ -1,5 +1,5 @@
 # Setup
-This project is build on Linux OS. 
+This project is build in Linux OS. 
 
 Setup a Hadoop cluster consisting of 2 VMs in the Chameleon cloud and start the Hadoop daemon processes.
 
